@@ -1,0 +1,12 @@
+# Fichiers lourds ou locaux, jamais publiés
+*.mp4
+!assets/video/*.mp4
+*.mov
+*.pptx
+.DS_Store
+Thumbs.db
+desktop.ini
+.impeccable/
+# Fichiers de provenance des images (outil Impeccable, usage local)
+*.webp.json
+*.png.json
